@@ -1,0 +1,8 @@
+cliente,vendedor,JAN,FEV,MAC,ABR,MAI,JUN,JUL,AGO,SET,OUT,NOV,DEZ,TOTAL
+João,Antônio,0,0,0,0,0,0,0,0,300,480,0,144,924
+João,Francisco,0,0,240,0,0,0,0,124,0,0,0,0,364
+João,Raimundo,52,72,0,104,15,279,0,0,0,0,156,0,678
+José,Antônio,0,880,0,0,12,0,0,0,300,1224,156,0,2572
+José,Raimundo,60,0,156,144,0,45,0,0,0,0,0,372,777
+Maria,Francisco,385,36,48,13,24,45,0,78,84,0,144,180,1037
+Maria,Raimundo,0,0,0,0,0,0,156,0,0,0,0,0,156
